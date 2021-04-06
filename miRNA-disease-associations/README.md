@@ -6,6 +6,10 @@ doi：https://doi.org/10.3389/fcell.2021.617569
 code：no  
 
 # 2020
+Neural inductive matrix completion with graph convolutional networks for miRNA-disease association prediction【2020.1】  
+doi：https://doi.org/10.1093/bioinformatics/btz965  
+code：https://github.com/ljatynu/NIMCGCN  
+
 Fusing multiple biological networks to effectively predict miRNA-disease associations【BIRWMDA，2020.5】  
 doi：https://doi.org/10.2174/1574893615999200715165335  
 code：https://github.com/AugustMe/BIRWMDA  
