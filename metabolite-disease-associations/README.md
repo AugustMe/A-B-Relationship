@@ -1,15 +1,8 @@
-# Collect miRNA-disease associations  prediction papers
+# Collect metabolite-disease associations  prediction papers
 
-# 2021
-SNFIMCMDA: Similarity Network Fusion and Inductive Matrix Completion for miRNA–Disease Association Prediction【2021.2】  
-doi：https://doi.org/10.3389/fcell.2021.617569  
-code：no  
+# 2020  
+Deep-DRM: a computational method for identifying disease-related metabolites based on graph deep learning approaches【2020.10】  
+doi：https://doi.org/10.1093/bib/bbaa212  
+code：https://github.com/zty2009/AD-WMN  
 
-# 2020
-Fusing multiple biological networks to effectively predict miRNA-disease associations【BIRWMDA，2020.5】  
-doi：https://doi.org/10.2174/1574893615999200715165335  
-code：https://github.com/AugustMe/BIRWMDA  
 
-Heterogeneous Graph Convolutional Networks and Matrix Completion for miRNA-Disease Association Prediction【DMA，2020.8】  
-doi：https://doi.org/10.3389/fbioe.2020.00901  
-code：https://github.com/aI-area/DMA  
