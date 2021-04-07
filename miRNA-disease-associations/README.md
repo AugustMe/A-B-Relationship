@@ -5,9 +5,9 @@ SNFIMCMDA: Similarity Network Fusion and Inductive Matrix Completion for miRNA�
 doi：https://doi.org/10.3389/fcell.2021.617569  
 code：no  
 
-NMCMDA: neural multicategory MiRNA–disease association prediction【2021.3】
-doi：https://doi.org/10.1093/bib/bbab074
-code：https://github.com/ljatynu/NMCMDA  
+NMCMDA: neural multicategory MiRNA–disease association prediction【2021.3】  
+doi：https://doi.org/10.1093/bib/bbab074  
+code：https://github.com/ljatynu/NMCMDA    
 
 # 2020
 Neural inductive matrix completion with graph convolutional networks for miRNA-disease association prediction【2020.1】  
