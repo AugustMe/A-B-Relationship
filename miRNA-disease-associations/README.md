@@ -10,7 +10,7 @@ doi：https://doi.org/10.1093/bib/bbab074
 code：https://github.com/ljatynu/NMCMDA    
 
 # 2020
-Neural inductive matrix completion with graph convolutional networks for miRNA-disease association prediction【2020.1】  
+Neural inductive matrix completion with graph convolutional networks for miRNA-disease association prediction【NIMGCN，2020.1】  
 doi：https://doi.org/10.1093/bioinformatics/btz965  
 code：https://github.com/ljatynu/NIMCGCN  
 
