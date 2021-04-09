@@ -1,15 +1,7 @@
-# Collect miRNA-disease associations  prediction papers
+# Collect lncRNA-miRNA associations  prediction papers
 
 # 2021
-SNFIMCMDA: Similarity Network Fusion and Inductive Matrix Completion for miRNA–Disease Association Prediction【2021.2】  
-doi：https://doi.org/10.3389/fcell.2021.617569  
-code：no  
+Predicting lncRNA–miRNA interactions based on interactome network and graphlet interaction【LMI-INGI, 2021.2】  
+doi：https://doi.org/10.1016/j.ygeno.2021.02.002 
+code：https://github.com/Liu-Lab-Lnu/LMI-INGI  
 
-# 2020
-Fusing multiple biological networks to effectively predict miRNA-disease associations【BIRWMDA，2020.5】  
-doi：https://doi.org/10.2174/1574893615999200715165335  
-code：https://github.com/AugustMe/BIRWMDA  
-
-Heterogeneous Graph Convolutional Networks and Matrix Completion for miRNA-Disease Association Prediction【DMA，2020.8】  
-doi：https://doi.org/10.3389/fbioe.2020.00901  
-code：https://github.com/aI-area/DMA  
