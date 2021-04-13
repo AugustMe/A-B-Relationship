@@ -1,7 +1,7 @@
 # Collect circiRNA-disease associations  prediction papers
 
 # 2021  
-SGANRDA: semi-supervised generative adversarial networks for predicting circRNA–disease associations【2021, 3】
+SGANRDA: semi-supervised generative adversarial networks for predicting circRNA–disease associations【2021, 3】  
 doi：https://doi.org/10.1093/bib/bbab028  
 code：https://github.com/look0012/SGANRDA  
 
