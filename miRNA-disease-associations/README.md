@@ -21,3 +21,8 @@ code：https://github.com/AugustMe/BIRWMDA
 Heterogeneous Graph Convolutional Networks and Matrix Completion for miRNA-Disease Association Prediction【DMA，2020.8】  
 doi：https://doi.org/10.3389/fbioe.2020.00901  
 code：https://github.com/aI-area/DMA  
+
+# 2019  
+A Novel Computational Model for Predicting microRNA–Disease Associations Based on Heterogeneous Graph Convolutional Networks【HGCNMDA, 2019.8】  
+doi：https://doi:10.3390/cells8090977  
+code：https://github.com/anny0316/HGCNMDA    
