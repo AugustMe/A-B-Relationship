@@ -9,6 +9,12 @@ NMCMDA: neural multicategory MiRNA–disease association prediction【2021.3】
 doi：https://doi.org/10.1093/bib/bbab074  
 code：https://github.com/ljatynu/NMCMDA    
 
+Multi-view Multichannel Attention Graph Convolutional Network for miRNA–disease association prediction 【2021.5】   
+doi：https://doi.org/10.1093/bib/bbab174    
+code：https://github.com/Txinru/MMGCN      
+
+
+
 # 2020
 Neural inductive matrix completion with graph convolutional networks for miRNA-disease association prediction【NIMGCN，2020.1】  
 doi：https://doi.org/10.1093/bioinformatics/btz965  
