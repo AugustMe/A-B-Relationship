@@ -1,7 +1,7 @@
 # Collect lncRNA-disease associations  prediction papers
 
 # 2021
-GCRFLDA: scoring lncRNA-disease associations using graph convolution matrix completion with conditional random field 【2021.9.6】
+GCRFLDA: scoring lncRNA-disease associations using graph convolution matrix completion with conditional random field 【2021.9.6】  
 doi：https://doi.org/10.1093/bib/bbab361  
 code：https://github.com/jademyC1221/GCRFLDA  
 
