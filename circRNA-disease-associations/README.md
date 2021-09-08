@@ -9,7 +9,7 @@ code：https://github.com/look0012/SGANRDA
 # 2020  
 
 An ensemble approach for CircRNA-disease association prediction based on autoencoder and deep neural network【2020.8】  
-doi：https://doi.org/10.1016/j.gene.2020.145040
+doi：https://doi.org/10.1016/j.gene.2020.145040  
 code：https://github.com/Deepthi-K523/AE-DNN  
 
 Potential circRNA-disease association prediction using DeepWalk and network consistency projection【DWNCPCDA, 2020.12】    
