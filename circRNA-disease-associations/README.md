@@ -2,18 +2,18 @@
 
 # 2021    
 
-SGANRDA: semi-supervised generative adversarial networks for predicting circRNA–disease associations【2021.3】    
+SGANRDA: semi-supervised generative adversarial networks for predicting circRNA–disease associations【SGANRDA，2021.3】     
 doi：https://doi.org/10.1093/bib/bbab028  
 code：https://github.com/look0012/SGANRDA  
 
-CRPGCN: predicting circRNA-disease associations using graph convolutional network based on heterogeneous network【2021.12】  
+CRPGCN: predicting circRNA-disease associations using graph convolutional network based on heterogeneous network【CRPGCN，2021.12】   
 doi: 10.1186/s12859-021-04467-z  
 code: https://github.com/KajiMaCN/CRPGCN  
 
 
 # 2020  
 
-An ensemble approach for CircRNA-disease association prediction based on autoencoder and deep neural network【2020.8】  
+An ensemble approach for CircRNA-disease association prediction based on autoencoder and deep neural network【AE-DNN，2020.8】  
 doi：https://doi.org/10.1016/j.gene.2020.145040  
 code：https://github.com/Deepthi-K523/AE-DNN  
 
@@ -22,3 +22,7 @@ doi：https://doi.org/10.1016/j.jbi.2020.103624
 code：https://github.com/ghli16/DWNCPCDA  
 
 # 2019  
+
+An efficient approach based on multi-sources information to predict circRNA–disease associations using deep convolutional neural network【2019.12】    
+doi：https://doi.org/10.1093/bioinformatics/btz825   
+code：https://github.com/look0012/circRNA-Disease-association   
