@@ -7,8 +7,8 @@ code：https://github.com/zty2009/AD-WMN
 
 
 # 2017  
-Identifying diseases-related metabolites using random walk【2017.12】
-doi：https://doi.org/10.1186/s12859-018-2098-1  
-code： no   
+Identifying diseases-related metabolites using random walk【2017.12】    
+doi：https://doi.org/10.1186/s12859-018-2098-1     
+code： no    
 
 
