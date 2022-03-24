@@ -20,13 +20,15 @@
 
 ### 9. drug-disease association  
 
-### 10. lncRNA-miRNA interaction  
+### 10. drug-protein interaction   
 
-### 11. circRNA-miRNA interaction  
+### 11. lncRNA-miRNA interaction  
 
-### 12. promoter-enhancer interaction  
+### 12. circRNA-miRNA interaction  
 
-### 13. lncRNA-protein interaction  
+### 13. promoter-enhancer interaction  
 
-### 14. gene-disease association  
+### 14. lncRNA-protein interaction  
+
+### 15. gene-disease association    
 
