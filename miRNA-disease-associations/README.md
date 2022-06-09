@@ -1,5 +1,10 @@
 # Collect miRNA-disease associations  prediction papers
 
+# 2022
+DNRLCNN: A CNN Framework for Identifying MiRNA–Disease Associations Using Latent Feature Matrix Extraction with Positive Samples【2022.4】  
+doi: 
+code:  
+
 # 2021
 SNFIMCMDA: Similarity Network Fusion and Inductive Matrix Completion for miRNA–Disease Association Prediction【2021.2】  
 doi：https://doi.org/10.3389/fcell.2021.617569  
