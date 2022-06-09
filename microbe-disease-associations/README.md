@@ -1,5 +1,10 @@
 # Collect microbe-disease associations  prediction papers
 
+# 2022
+MVGCNMDA: Multi-view Graph Augmentation Convolutional Network for Uncovering Disease-Related Microbes【2022.4】  
+doi:  
+code:  
+
 # 2021
 Multi-View Feature Aggregation for predicting microbe-disease association【MVFA,2021.12】      
 doi: 10.1109/TCBB.2021.3132611     
