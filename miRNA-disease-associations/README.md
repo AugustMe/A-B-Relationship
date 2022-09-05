@@ -1,6 +1,10 @@
 # Collect miRNA-disease associations  prediction papers
 
 # 2022
+TLNPMD: Prediction of miRNA-Disease Associations Based on miRNA-Drug-Disease Three-Layer Heterogeneous Network 【2022.7】  
+doi: https://doi.org/10.3390/molecules27144371     
+code: no  
+
 DNRLCNN: A CNN Framework for Identifying MiRNA–Disease Associations Using Latent Feature Matrix Extraction with Positive Samples【2022.4】  
 doi: 
 code:  
