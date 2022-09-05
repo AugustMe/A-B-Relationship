@@ -1,5 +1,10 @@
 # Collect circiRNA-disease associations  prediction papers
 
+# 2022  
+NSECDA: Natural Semantic Enhancement for CircRNA-Disease Association Prediction【NSECDA，2022.8】   
+doi: 10.1109/JBHI.2022.3199462    
+code: no   
+
 # 2021    
 
 SGANRDA: semi-supervised generative adversarial networks for predicting circRNA–disease associations【SGANRDA，2021.3】     
