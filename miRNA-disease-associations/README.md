@@ -1,6 +1,11 @@
 # Collect miRNA-disease associations  prediction papers
 
 # 2022
+
+Matrix reconstruction with reliable neighbors for predicting potential MiRNA-disease associations【MRRN，2022.12】  
+doi：10.1093/bib/bbac571     
+code：no     
+
 TLNPMD: Prediction of miRNA-Disease Associations Based on miRNA-Drug-Disease Three-Layer Heterogeneous Network 【2022.7】  
 doi: https://doi.org/10.3390/molecules27144371     
 code: no  
