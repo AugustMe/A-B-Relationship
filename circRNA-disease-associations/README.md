@@ -1,9 +1,14 @@
 # Collect circiRNA-disease associations  prediction papers
 
 # 2022  
+
 NSECDA: Natural Semantic Enhancement for CircRNA-Disease Association Prediction【NSECDA，2022.8】   
 doi: 10.1109/JBHI.2022.3199462    
 code: no   
+
+XGBCDA: a multiple heterogeneous networks-based method for predicting circRNA-disease associations【XGBCDA，2022.11】   
+doi：10.1186/s12920-021-01054-2   
+code： https://github.com/Q1DT/XGBCDA     
 
 # 2021    
 
